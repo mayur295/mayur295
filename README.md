@@ -5,7 +5,7 @@
 </div>
 
 ## About me :mortar_board:
-I am a undergraduate student, currently studying Electronics Engineering in Ramrao Adik Institute of Technology Navi Mumbai.From very early stage of my lifE I have been drawn towards technology,I am curios about every new technology I see. Since my 10th standard i have started learning developing some basic wep pages and i want to develop many more projects and my goal is to learn full stack development. I believe that **we should keep learning and evolving**. 
+I am a undergraduate student, currently studying Electronics Engineering in Ramrao Adik Institute of Technology Navi Mumbai.From very early stage of my lifE I have been drawn towards technology,I am curios about every new technology I see.I am also a aspiring photographer. Since my 10th standard i have started learning developing some basic web pages and i want to develop many more projects and I am currently learning backend as my goal is to pursue Full Stack Web Development. I believe that **we should keep learning and evolving**. 
 
 ## What I know :computer:
 - **Programming**
@@ -16,6 +16,7 @@ I am a undergraduate student, currently studying Electronics Engineering in Ramr
 	- HTML, CSS and moderate Javascript :white_check_mark:
 	- Bootstrap
 	- Wordpress
+
 
 ## What I want to do next :thinking:
 - Backend Development (to become a Full-Stack developer)
