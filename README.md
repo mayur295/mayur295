@@ -1,12 +1,6 @@
 # Welcome to my github! 👋
 
 <div align="center">
-	<img src="# Welcome to my github! 👋
-
-<div align="center">
-	<img src="# Welcome to my github! 👋
-
-<div align="center">
 	<img src="https://i.imgur.com/PEyK5QZ.gif">
 </div>
 
