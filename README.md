@@ -30,9 +30,6 @@ I am a undergraduate student, currently studying Electronics Engineering in Ramr
 [![Mail](https://img.shields.io/badge/-mayurbhamare2001@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=www.linkedin.com/in/mayur-bhamare-b805a1195/)](mailto:mayurbhamare2001@gmail.com)
 
 
-### Interesting stats
-
-![Mayur's stats](https://github-readme-stats.vercel.app/api?username=mayur295&show_icons=true)
 
 Thanks for stopping by! 😁
 
