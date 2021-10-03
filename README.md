@@ -11,18 +11,18 @@
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an **Undergrad Student🎓 [@DYP RAIT Mumbai](http://www.dypatil.edu/mumbai/rait/)** pursuing Electronics Engineering. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+I'm an **Undergrad Student🎓 [@DYP RAIT Mumbai](http://www.dypatil.edu/mumbai/rait/)** pursuing Electronics Engineering. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing projects and i think projects are the best way to learn any tech. <br/><br/>
 
 
 
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently learning opensource and Data Structures&Algorithms
+- 🔭 I’m currently learning opensource and Data Structures & Algorithms.
 - 🌱 I’m currently learning JavaScript and it libraries ☕
 - 👯 I’m also intrested in developing hardware projects with Arduino.
-- 💬 Ask me about C++,HTML,CSS,DSA
-
+- 💬 Ask me about C++,HTML,CSS,DSA.
+- 🌱 I like solving problems on different websites and develop problem solving as a mind sport.
 
   
 
