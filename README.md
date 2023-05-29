@@ -27,11 +27,7 @@ I'm an **Undergrad Student🎓 [@DYP RAIT Mumbai](http://www.dypatil.edu/mumbai/
   
 
 
-### 🚀 Quick Stats
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayur295&show_icons=true&line_height=21&theme=react" alt="mayur295's Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayur295&theme=react&line_height=27&layout=compact" />
-</p>
+
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mayur295)
